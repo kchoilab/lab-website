@@ -43,6 +43,8 @@ You do not need a background in Biology, but you must be curious about how biolo
 
 Please email `kirichoi(at)kmu.ac.kr` with your CV and a brief statement of interest (1 paragraph).
 
+---
+
 <div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 40px; margin-bottom: 30px;">
   
   <img src="{{ '/assets/img/kmu_type30.png' | relative_url }}" style="width: 150px; height: auto; flex-shrink: 0;" alt="kmu logo">
@@ -54,10 +56,10 @@ Please email `kirichoi(at)kmu.ac.kr` with your CV and a brief statement of inter
 
   <div style="flex-shrink: 0; min-width: 120px;">
     <details style="cursor: pointer;">
-      <summary style="list-style: none; display: flex; align-items: center; gap: 5px; cursor: pointer;">
-  <span class="sitemap-arrow" style="transition: transform 0.2s ease-in-out; display: inline-block; color: #828282 !important;">▶</span>
-<span style="color: #828282 !important; font-weight: normal !important; opacity: 0.9 !important; -webkit-text-fill-color: #828282 !important;">⚙️ Site Map</span>
-  </summary>
+      <summary style="list-style: none; font-weight: bold; display: flex; align-items: center; gap: 5px;">
+        <span class="sitemap-arrow" style="transition: transform 0.2s ease-in-out; display: inline-block; color: #828282 !important;">▶</span>
+        <span>⚙️ Site Map</span>
+      </summary>
       <ul style="list-style: none; padding-left: 10px; margin: 10px 0 0 0; line-height: 1.8; border-left: 2px solid #eee; font-size: 0.9rem;">
         <li><a href="https://www.notion.so/People-2e6aef7eb71680b9815bfaeb20ed8351?pvs=21">People</a></li>
         <li><a href="https://www.notion.so/Research-2e6aef7eb716803cb918f4dbbe59da30?pvs=21">Research</a></li>
