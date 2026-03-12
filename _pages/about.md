@@ -44,16 +44,16 @@ We integrate **computational modeling**, **artificial intelligence**, and **quan
 
 ### **🔬 What we study**
 
-**1. Chemosensory Receptor Dynamics**
+**1. Chemosensory Receptor Dynamics**  
 We investigate how cells robustly encode external stimuli by studying the dynamics of chemosensory receptors. We aim to understand the fundamental limits of sensory encoding at the molecular interface.
 
-**2. Olfactory Perception & Decision-Making**
+**2. Olfactory Perception & Decision-Making**  
 We investigate how animals make decisions in complex environments. We integrate behavioral experiments and Artificial Intelligence to decode the algorithms of olfactory processing in *Drosophila*.
 
-**3. Information Processing in Biological Systems**
+**3. Information Processing in Biological Systems**  
 We use olfaction as a model to uncover universal principles of biological computation. We investigate how biological networks—from biochemical signaling pathways to neural circuits—process information to ensure robust function.
 
-**4. Biological Algorithm Development**
+**4. Biological Algorithm Development**  
 We develop novel computational methods for network inference, optimization, and clustering to interpret high-dimensional biological data.
 
 [👉 Click here to read more about our research](https://jsbyun3.github.io/IN-SB-Lab/research/)
