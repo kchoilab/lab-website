@@ -7,17 +7,144 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
+<!-- _pages/publications.md
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %}
 
 <div class="publications">
 
 {% bibliography %}
 
-</div>
+</div> -->
+** indicates equal contribution*
+
+### 2024
+
+- **Bifurcation Enhances Temporal Information Encoding in the Olfactory Periphery
+K. Choi***, W. Rosenbluth*****, I.R. Graf, N. Kadakia, T. Emonet
+*PRX Life.* 2, 043011 (2024)
+[10.1103/PRXLife.2.043011](https://doi.org/10.1103/PRXLife.2.043011)
+- **Unveiling the Odor Representation in the Inner Brain of *Drosophila* through Compressed Sensing
+K. Choi**, W.K. Kim, C. Hyeon
+*Physical Review Research.* 6 (2), 023298 (2024)
+[10.1103/PhysRevResearch.6.023298](https://doi.org/10.1103/PhysRevResearch.6.023298)
+
+### 2023
+
+- **General Chemical Reaction Network Theory for GPCR-Based Olfactory Sensing: Elucidation of Odorant Mixture Effects and Agonist–Synergist Threshold**
+W.K. Kim, **K. Choi**, C. Hyeon, S.J. Jang
+*J. Phys. Chem. Lett.* 14 (XXX), 8412–8420 (2023)
+[10.1021/acs.jpclett.3c02310](https://doi.org/10.1021/acs.jpclett.3c02310)
+- **libRoadRunner 2.0: A High-Performance SBML Simulation and Analysis Library**
+C. Welsh, J. Xu, L. Smith, M. König, **K. Choi**, H.M. Sauro
+*Bioinformatics.* 39(1), btac770 (2023)
+[10.1093/bioinformatics/btac770](https://doi.org/10.1093/bioinformatics/btac770)
+
+### 2022
+
+- **Polymer physics-based classification of neurons.
+K. Choi**, W.K. Kim, C. Hyeon
+*Neuroinformatics.* 21(1), 177-193 (2022)
+[10.1007/s12021-022-09605-3](https://doi.org/10.1007/s12021-022-09605-3)
+- **Olfactory responses of *Drosophila* are encoded in the organization of projection neurons.
+K. Choi**, W.K. Kim, C. Hyeon
+*eLife.* 11, e77748 (2022)
+[10.7554/eLife.77748](https://doi.org/10.7554/eLife.77748)
+- **Neural information processing and computations of two-input synapses.**
+S.H. Kim, J.H. Woo, **K. Choi**, M.Y. Choi, K. Han
+*Neural Computation.* 34 (10), 2102–2131 (2022)
+[10.1162/neco_a_01534](https://doi.org/10.1162/neco_a_01534)
+- **BioSimulators: a web-based registry of simulation engines and services for multiscale modeling**
+B. Shaikh, L.P. Smith, D. Vasilescu, G. Marupilla, M. Wilson, E. Agmon, H. Agnew, S.S. Andrews, A. Anwar, M.E. Beber, F.T. Bergmann, D. Brooks, L. Brusch, L. Calzone, **K. Choi**, …, J.R. Karr
+*Nucleic Acids Research.* 50 (W1), W108–W114 (2022)
+[10.1093/nar/gkac331](https://doi.org/10.1093/nar/gkac331)
+- **The structural aspects of neural dynamics and information flow**
+J.H. Woo, **K. Choi**, S.H. Kim, K. Han, M.Y. Choi
+*Front Biosci.-Landmark.* 27 (1), 15 (2022)
+[10.31083/j.fbl2701015](https://doi.org/10.31083/j.fbl2701015)
+
+### 2021
+
+- **Characterization of multiscale logic operations in the neural circuits**
+J.H. Woo*, **K. Choi***, S.H. Kim, K. Han, M.Y. Choi
+*Front Biosci.-Landmark.* 26 (10), 723–739 (2021)
+[10.52586/4983](https://doi.org/10.52586/4983)
+- **Status and Challenges of Reproducibility in Computational Systems and Synthetic Biology**
+**K. Choi**, J.R. Karr, H.M. Sauro
+In Systems Medicine: Integrative, Qualitative and Computational Approaches. Amsterdam, Netherlands: Elsevier. 3, 406–412 (2021)
+[10.1016/B978-0-12-801238-3.11525-9](https://doi.org/10.1016/B978-0-12-801238-3.11525-9)
+
+### 2019
+
+- **Synthetic Biology Open Language (SBOL) Version 2.3**
+C. Madsen, A.G. Moreno, P. Umesh, Z. Palchick, N. Roehner, C. Atallah, B. Bartley, **K. Choi**, …, A. Wipat
+*J. Integr. Bioinform.* 16 (2) (2019)
+[10.1515/jib-2019-0025](https://doi.org/10.1515/jib-2019-0025)
+- **Recent Advances in Biomedical Simulations: A Manifesto for Model Engineering**
+J. Hellerstein, S. Gu, **K. Choi**, H.M. Sauro
+*F1000Research.* 8 (2019)
+[10.12688/f1000research.15997.1](https://doi.org/10.12688/f1000research.15997.1)
+
+### 2018
+
+- **pySBOL: A Python Package for Genetic Design Automation and Standardization**
+B. Bartley, **K. Choi**, M. Samineni, Z. Zundel, T. Nguyen, C.J. Myers, H.M. Sauro
+*ACS Synthetic Biology.* 8 (7), 1515–1518
+[10.1021/acssynbio.8b00336](https://doi.org/10.1021/acssynbio.8b00336)
+- **Robust approaches to generating reliable predictive models in systems biology**
+**K. Choi**
+In Systems Biology. Cham, Switzerland: Springer. 301–312 (2018)
+[10.1007/978-3-319-92967-5_15](https://doi.org/10.1007/978-3-319-92967-5_15)
+- **Tellurium: An Extensible Python-based Modeling Environment for Systems and Synthetic Biology**
+**K. Choi**, J.K. Medley, M. König, K. Stocking, L. Smith, S. Gu, H.M. Sauro
+*BioSystems.* 171, 74–79 (2018)
+[10.1016/j.biosystems.2018.07.006](https://doi.org/10.1016/j.biosystems.2018.07.006)
+- **Tellurium Notebooks - An Environment for Dynamical Model Development, Reproducibility, and Reuse**
+J.K. Medley, **K. Choi**, M. König, L. Smith, S. Gu, J. Hellerstein, S.C. Sealfon, H.M. Sauro
+*PLOS Comp. Biol.* 14 (6), e1006220 (2018)
+[10.1371/journal.pcbi.1006220](https://doi.org/10.1371/journal.pcbi.1006220)
+- **A Portable Structural Analysis Library for Reaction Networks**
+Y. Bedaso, F.T. Bergmann, **K. Choi**, J.K. Medley, H.M. Sauro
+*BioSystems.* 169–170, 20–25 (2018)
+[10.1016/j.biosystems.2018.05.008](https://doi.org/10.1016/j.biosystems.2018.05.008)
+- **Synthetic Biology Open Language (SBOL) Version 2.2.0**
+R.S. Cox III, C. Madsen, J.A. McLaughlin, T. Nguyen, N. Roehner, B. Bartley, J. Beal, M. Bissell, **K. Choi**, …, A. Wipat
+*J. Integr. Bioinform.* 15 (1), 30–132 (2018)
+[10.1515/jib-2018-0001](https://doi.org/10.1515/jib-2018-0001)
+
+### 2016
+
+- **Synthetic Biology Open Language (SBOL) Version 2.1.0**
+J. Beal, R. Cox, R. Grunberg, J. McLaughlin, T. Nguyen, B. Bartley, M. Bissell, **K. Choi**, …, A. Wipat
+*J. Integr. Bioinform.* 13 (3), 291 (2016)
+[10.1515/jib-2016-291](https://doi.org/10.1515/jib-2016-291)
+- **phraSED-ML: A paraphrased, human-readable adaptation of SED-ML**
+**K. Choi**, L. Smith, J.K. Medley, H.M. Sauro
+*J. Bioinform. Comput. Biol.* 14 (6), 1650035 (2016)
+[10.1142/S0219720016500359](https://doi.org/10.1142/S0219720016500359)
+
+### 2015
+
+- **Controlling E. coli Gene Expression Noise**
+K.H. Kim, **K. Choi**, B. Bartley, H.M. Sauro
+*IEEE Trans. Biomed. Circuits Syst.* 9 (4), 497–504 (2015)
+[10.1109/TBCAS.2015.2461135](https://doi.org/10.1109/TBCAS.2015.2461135)
+
+### 2010
+
+- **Quantitative Mapping of Diffusion Characteristics under the Cortical Surface**
+B.-B. Koo, **K. Choi**, I. Ronen, J.M. Lee, D.S. Kim
+*Magn. Reson. Imaging.* 28 (8), 1175–1182 (2010)
+[10.1016/j.mri.2010.03.020](https://doi.org/10.1016/j.mri.2010.03.020)
+
+### 2009
+
+- **Development of Gradient Centrifugal Partition Chromatography Method and Its Application for the Isolation of 3,5-Dimethoxyphenanthrene-2,7-diol and Batatasin-I from Dioscorea opposite**
+K.D. Yoon, M.H. Yang, Y.-W. Chin, Y. Kim, H.R. Kim, **K. Choi**, …, J.W. Kim
+*Natural Product Sciences.* 15, 144–150 (2009)
+[10.1093/bioinformatics/btac770](https://doi.org/10.1093/bioinformatics/btac770)
 
 ---
 

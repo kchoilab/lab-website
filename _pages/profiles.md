@@ -35,6 +35,8 @@ Before joining Keimyung University, he was awarded **Swartz Foundation Fellowshi
 
 <br><br>
 
+---
+
 ## 🚀Join Us
 
 We are looking for students with backgrounds in **Biology, Physics, Computer Science, Mathematics, Statistics, or Engineering!** If you are interested in AI, olfaction, neuroscience, biochemical reaction networks, dynamical systems, or fruit flies 🪰, we want to hear from you. 
