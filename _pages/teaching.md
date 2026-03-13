@@ -8,25 +8,35 @@ nav_order: 4
 calendar: false #true->false
 ---
 
-### 16164 일반미생물학 General Microbiology
+**#### 16164 일반미생물학 General Microbiology**
 
 - Spring 2026
 
-### 46546 생물데이터분석 Biological Data Analysis
+
+
+**#### 46546 생물데이터분석 Biological Data Analysis**
 
 - Spring 2026
 
-### 24996 산업미생물학 Industrial Microbiology
+
+
+**#### 24996 산업미생물학 Industrial Microbiology**
 
 - Fall 2025
 
-### 19249 환경미생물학 Environmental Microbiology
+
+
+**#### 19249 환경미생물학 Environmental Microbiology**
 
 - Fall 2025
 
-### A9872  디지털헬스케어개론 Intro to Digital Healthcare
+
+
+**#### A9872  디지털헬스케어개론 Intro to Digital Healthcare**
 
 - Fall 2025
+
+
 
 ---
 
