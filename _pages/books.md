@@ -16,10 +16,8 @@ Daegu 42601, South Korea
 
 백은관 254-1호
 계명대학교 생명과학과
-대구광역시 달서구 1095 달구벌대로 (우)42601
-
-<div class="map" id="inf">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3233.802543838003!2d128.482434!3d35.853845!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3565ef84b0f72459%3A0x47920a0f8307fccd!2z67Cx7J2A6rSA!5e0!3m2!1sko!2sus!4v1773375555916!5m2!1sko!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+대구광역시 달서구 1095 달구벌대로 (우)42601 <div class="map" id="inf">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3233.802543838003!2d128.482434!3d35.853845!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3565ef84b0f72459%3A0x47920a0f8307fccd!2z67Cx7J2A6rSA!5e0!3m2!1sko!2sus!4v1773375555916!5m2!1sko!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ---
