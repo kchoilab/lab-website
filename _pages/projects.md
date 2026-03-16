@@ -2,67 +2,68 @@
 layout: page
 title: research #project -> research
 permalink: /research/
-description: A growing collection of your cool projects.
+# description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
+Our lab combines **neuroscience**, **biophysics**, and **systems biology** to understand how biological systems process information and maintain robust function. We are particularly interested in the intersection of structural connectivity and dynamic function.
+
+---
+
+<div class="row items-center mb-5">
+  <div class="col-sm-4">
+    <img src="{{ '/assets/img/2_1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Dynamics Image">
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
+  <div class="col-sm-8">
+    <h3 class="title">Dynamics of Chemosensory Receptors</h3>
+    <p class="font-italic">What is the principle of chemical sensing?</p>
+    <p>We investigate how sensory information is encoded at the molecular interface. Our research focuses on the <strong>dynamics of ligand-receptor binding</strong> to understand how olfactory neurons encode fluctuating odor signals...</p>
   </div>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>
+
+<br>
+
+<div class="row items-center mb-5">
+  <div class="col-sm-8">
+    <h3 class="title">Olfactory Perception & Decision-Making 🪰👃</h3>
+    <p class="font-italic">What forms our perception of a smell?</p>
+    <p>Navigation is an active process shaped by <strong>odor value</strong> and context. We investigate the algorithms that allow <em>Drosophila</em> to make informed decisions in complex environments...</p>
+  </div>
+  <div class="col-sm-4">
+    <img src="{{ '/assets/img/1_1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Perception Image">
+  </div>
+</div>
+
+<br>
+
+<div class="row items-center mb-5">
+  <div class="col-sm-4">
+    <img src="{{ '/assets/img/3_2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Biological System Image">
+  </div>
+  <div class="col-sm-8">
+    <h3 class="title">Information Processing in Biological Systems</h3>
+    <p class="font-italic">What makes biological networks robust?</p>
+    <p>We use the olfactory system as a model to uncover universal principles of biological computation. Our goal is to understand how the <strong>structure</strong> of a network determines its <strong>function</strong> across different biological systems—from the large-scale connectomics of neural circuits to biochemical signaling pathways. We investigate the relationship between connectivity and neural dynamics, seeking to identify the topological motifs that ensure robust information processing and function.</p>
+  </div>
+</div>
+
+<br>
+
+<div class="row items-center mb-5">
+  <div class="col-sm-8">
+    <h3 class="title"> Biological Algorithm Development</h3>
+    <p class="font-italic">Software as a scientific output.</p>
+    <p>Biological processes are complex and demand advanced software tools. We develop novel computational methods to interpret high-dimensional biological data, focusing on <strong>network inference</strong>, <strong>optimization</strong>, and <strong>clustering</strong>. Our research addresses the challenge of recovering underlying system structures from sparse experimental data. Additionally, we focus on enhancing model reuse and reproducibility in biological modeling through the development of industry-standard simulation tools.</p>
+  </div>
+  <div class="col-sm-4">
+    <img src="{{ '/assets/img/4_2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Biological Algorithm Image">
+  </div>
+</div>
+
+<br>
 
 ---
 
