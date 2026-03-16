@@ -25,6 +25,7 @@ pip install tellurium
 <br>
 <br>
 <br>
+
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ '/assets/img/libroadrunner_logo_tan.jpg' | relative_url }}" style="width: 80px; height: auto;" alt="libRoadRunner Logo">
   
@@ -43,14 +44,19 @@ pip install libroadrunner
 <br>
 <br>
 <br>
-## metaMEG
 
-A meta-modeling algorithm for biochemical reaction networks. It uses evolutionary algorithms to generate model ensembles from perturbation studies, allowing researchers to explore network topology and parameter space effectively to solve inverse problems.
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  
+  <h2 style="margin: 0; border: none;">metaMEG</h2>
+</div>
+
+<p>A meta-modeling algorithm for biochemical reaction networks. It uses evolutionary algorithms to generate model ensembles from perturbation studies, allowing researchers to explore network topology and parameter space effectively to solve inverse problems.</p>
 
 [**[Github]**](https://github.com/kirichoi/evoMEG)
 <br>
 <br>
 <br>
+
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ '/assets/img/phrasedml_logo.png' | relative_url }}" style="width: 80px; height: auto;" alt="phraSED-ML Logo">
   
@@ -65,14 +71,19 @@ To use:
 ```jsx
 pip install phrasedml
 ```
-<br>
-<br>
-<br>
+
 [**[Github]**](https://github.com/sys-bio/roadrunner)
+<br>
+<br>
+<br>
 
-## netplotlib
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  
+  <h2 style="margin: 0; border: none;">netplotlib</h2>
+</div>
 
-A purely Python-based visualization tool for biochemical reaction networks. Built on NetworkX and Matplotlib, it enables the programmatic generation of publication-quality network diagrams directly from code or model files.
+<p>A purely Python-based visualization tool for biochemical reaction networks. Built on NetworkX and Matplotlib, it enables the programmatic generation of publication-quality network diagrams directly from code or model files.
+</p>
 
 To use:
 
