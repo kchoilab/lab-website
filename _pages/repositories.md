@@ -17,10 +17,6 @@ nav_order: 5
 
 ![/assets/img/tellurium_logo.png](attachment:9f38708a-d160-4813-9894-409833679c7c:tellurium_logo.png)
 
-## Tellurium
-
-An integrated Python-based environment for model building, simulation, and analysis. It allows researchers to write human-readable models in Antimony and simulate them instantly using the Python scientific stack. It features first-class support for community standards (SBML, SED-ML, COMBINE). -->
-
 To use:
 
 ```jsx
@@ -28,7 +24,9 @@ pip install tellurium
 ```
 
 [**[Github]**](https://github.com/sys-bio/tellurium) | [**[Documentation]**](https://tellurium.readthedocs.io/en/latest/)
-
+<br>
+<br>
+<br>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ '/assets/img/libroadrunner_logo_tan.jpg' | relative_url }}" style="width: 80px; height: auto;" alt="libRoadRunner Logo">
   
@@ -44,13 +42,17 @@ pip install libroadrunner
 ```
 
 [**[Github]**](https://github.com/sys-bio/roadrunner) | [**[Documentation]**](https://libroadrunner.readthedocs.io/en/latest/)
-
+<br>
+<br>
+<br>
 ## metaMEG
 
 A meta-modeling algorithm for biochemical reaction networks. It uses evolutionary algorithms to generate model ensembles from perturbation studies, allowing researchers to explore network topology and parameter space effectively to solve inverse problems.
 
-[[Github]](https://github.com/kirichoi/evoMEG)
-
+[**[Github]**](https://github.com/kirichoi/evoMEG)
+<br>
+<br>
+<br>
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ '/assets/img/phrasedml_logo.png' | relative_url }}" style="width: 80px; height: auto;" alt="phraSED-ML Logo">
   
@@ -65,7 +67,9 @@ To use:
 ```jsx
 pip install phrasedml
 ```
-
+<br>
+<br>
+<br>
 [**[Github]**](https://github.com/sys-bio/roadrunner)
 
 ## netplotlib
@@ -79,7 +83,8 @@ pip install netplotlib
 ```
 
 [**[Github]**](https://github.com/kirichoi/netplotlib) | [**[Documentation]**](https://netplotlib.readthedocs.io/en/latest/)
-
+<br>
+<br>
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 40px; margin-bottom: 30px;">
