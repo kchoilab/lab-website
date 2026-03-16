@@ -28,12 +28,12 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
 <br>
 
 <div class="row items-center mb-5">
-  <div class="col-sm-9">
+  <div class="col-sm-8">
     <h3 class="title">Olfactory Perception & Decision-Making 🪰👃</h3>
     <p class="font-italic">What forms our perception of a smell?</p>
     <p>Navigation is an active process shaped by <strong>odor value</strong> and context. We investigate the algorithms that allow <em>Drosophila</em> to make informed decisions in complex environments.By integrating <strong>quantitative behavioral experiments</strong> with <strong>Artificial Intelligence</strong>, we model how the brain integrates various navigational cues to guide movement. We are particularly interested in how the brain updates the "value" of an odor based on changing environmental contexts to drive decision-making.</p>
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <img src="{{ '/assets/img/1_1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Perception Image">
   </div>
 </div>
@@ -56,12 +56,12 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
 <br>
 
 <div class="row items-center mb-5">
-  <div class="col-sm-9">
+  <div class="col-sm-8">
     <h3 class="title"> Biological Algorithm Development</h3>
     <p class="font-italic">Software as a scientific output.</p>
     <p>Biological processes are complex and demand advanced software tools. We develop novel computational methods to interpret high-dimensional biological data, focusing on <strong>network inference</strong>, <strong>optimization</strong>, and <strong>clustering</strong>. Our research addresses the challenge of recovering underlying system structures from sparse experimental data. Additionally, we focus on enhancing model reuse and reproducibility in biological modeling through the development of industry-standard simulation tools.</p>
   </div>
-  <div class="col-sm-3">
+  <div class="col-sm-4">
     <img src="{{ '/assets/img/4_2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Biological Algorithm Image">
   </div>
 </div>
