@@ -20,23 +20,25 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
   <div class="col-sm-8">
     <h3 class="title">Dynamics of Chemosensory Receptors</h3>
     <p class="font-italic">What is the principle of chemical sensing?</p>
-    <p>We investigate how sensory information is encoded at the molecular interface. Our research focuses on the <strong>dynamics of ligand-receptor binding</strong> to understand how olfactory neurons encode fluctuating odor signals...</p>
+    <p>We investigate how sensory information is encoded at the molecular interface. Our research focuses on the <strong>dynamics of ligand-receptor binding</strong> to understand how olfactory neurons encode fluctuating odor signals. We analyze how the binding kinetics of olfactory receptors constrain the system's ability to encode context-dependent information. By modeling these initial interactions, we aim to determine the fundamental limits of sensory encoding and how these constraints shape downstream neural processing.</p>
   </div>
 </div>
 
+<br>
 <br>
 
 <div class="row items-center mb-5">
   <div class="col-sm-8">
     <h3 class="title">Olfactory Perception & Decision-Making 🪰👃</h3>
     <p class="font-italic">What forms our perception of a smell?</p>
-    <p>Navigation is an active process shaped by <strong>odor value</strong> and context. We investigate the algorithms that allow <em>Drosophila</em> to make informed decisions in complex environments...</p>
+    <p>Navigation is an active process shaped by <strong>odor value</strong> and context. We investigate the algorithms that allow <em>Drosophila</em> to make informed decisions in complex environments.By integrating <strong>quantitative behavioral experiments</strong> with <strong>Artificial Intelligence</strong>, we model how the brain integrates various navigational cues to guide movement. We are particularly interested in how the brain updates the "value" of an odor based on changing environmental contexts to drive decision-making.</p>
   </div>
   <div class="col-sm-4">
     <img src="{{ '/assets/img/1_1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Perception Image">
   </div>
 </div>
 
+<br>
 <br>
 
 <div class="row items-center mb-5">
@@ -51,6 +53,7 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
 </div>
 
 <br>
+<br>
 
 <div class="row items-center mb-5">
   <div class="col-sm-8">
@@ -63,6 +66,7 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
   </div>
 </div>
 
+<br>
 <br>
 
 ---
