@@ -15,8 +15,6 @@ nav_order: 5
 
 <p>An integrated Python-based environment for model building, simulation, and analysis. It allows researchers to write human-readable models in Antimony and simulate them instantly using the Python scientific stack. It features first-class support for community standards (SBML, SED-ML, COMBINE).</p>
 
-![/assets/img/tellurium_logo.png](attachment:9f38708a-d160-4813-9894-409833679c7c:tellurium_logo.png)
-
 To use:
 
 ```jsx
@@ -85,6 +83,7 @@ pip install netplotlib
 [**[Github]**](https://github.com/kirichoi/netplotlib) | [**[Documentation]**](https://netplotlib.readthedocs.io/en/latest/)
 <br>
 <br>
+
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 40px; margin-bottom: 30px;">
