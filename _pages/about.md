@@ -92,7 +92,7 @@ We develop novel computational methods for network inference, optimization, and 
   👉 <a href="{{ '/news/' | relative_url }}">Click here to view previous lab news</a>
 </p> -->
 
-👉 [Click here to view previous lab news](https://jsbyun3.github.io/IN-SB-Lab/news/index.html)
+👉 [Click here to view previous lab news](https://www.notion.so/News-2e6aef7eb71680739767d93511490529?pvs=21)
 
 ---
 
