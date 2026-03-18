@@ -96,11 +96,6 @@ blog_description: blank
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
-# collections:
-#   blog:
-#     output: true
-#     permalink: /news/:title/
-
 # Pagination
 pagination:
   enabled: true
