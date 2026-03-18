@@ -63,7 +63,7 @@ We develop novel computational methods for network inference, optimization, and 
 ### **📢 News**
 
 <div class="news">
-  <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+  <!-- <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2> -->
   {% if site.news != blank %}
     <div class="row">
       {% assign news_limit = 3 %} {% assign news = site.news | reverse %}
