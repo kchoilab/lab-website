@@ -91,15 +91,15 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog -> news
 # -----------------------------------------------------------------------------
 
-# blog_name: blank # blog_name will be displayed in your blog page
-# blog_description: blank
-# permalink: /blog/:year/:title/
-# lsi: false # produce an index for related posts
+blog_name: blank # blog_name will be displayed in your blog page
+blog_description: blank
+permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
 
-collections:
-  blog:
-    output: true
-    permalink: /news/:title/
+# collections:
+#   blog:
+#     output: true
+#     permalink: /news/:title/
 
 # Pagination
 pagination:
