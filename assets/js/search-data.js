@@ -49,7 +49,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/IN-SB-Lab/news/index.html";
+            window.location.href = "/IN-SB-Lab/news/";
           },
         },{id: "nav-contact",
           title: "contact",
