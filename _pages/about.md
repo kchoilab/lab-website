@@ -88,9 +88,9 @@ We develop novel computational methods for network inference, optimization, and 
   {% endif %}
 </div>
 
-<p class="mt-2">
+<!-- <p class="mt-2">
   👉 <a href="{{ '/news/' | relative_url }}">Click here to view previous lab news</a>
-</p>
+</p> -->
 
 👉 [Click here to view previous lab news](https://jsbyun3.github.io/IN-SB-Lab/news/index.html)
 
