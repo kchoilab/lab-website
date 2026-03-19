@@ -17,40 +17,50 @@ pagination:
 ---
 
 
-<div class="card mb-3" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: none;">
-  <div class="card-body p-4">
-    <div class="d-flex align-items-center mb-2">
-      <div class="rounded-circle bg-light d-flex justify-content-center align-items-center" style="width: 35px; height: 35px; border: 1px solid #ddd;">
-        <span style="font-size: 0.8rem; color: #666;">K</span>
-      </div>
-      <div class="ml-2">
-        <span style="font-weight: 600; font-size: 0.95rem;">Kiri Choi</span>
-      </div>
-    </div>
-    
-    <h3 class="card-title" style="font-weight: 800; margin-top: 10px;">Open Positions</h3>
-    <p class="text-muted" style="font-size: 0.9rem;">2026년 1월 15일</p>
-    
-    <p class="card-text" style="line-height: 1.6; margin-top: 15px;">
-      We are actively recruiting MS/PhD students with backgrounds in Biology, Physics, CS, Statistics, or Bioengineering.
-    </p>
-  </div>
-</div>
+---
+layout: page
+title: blog
+permalink: /blog/
+nav: true
+nav_order: 2
+---
 
-<div class="card mb-3" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: none;">
-  <div class="card-body p-4">
-    <div class="d-flex align-items-center mb-2">
-      <div class="rounded-circle bg-light d-flex justify-content-center align-items-center" style="width: 35px; height: 35px; border: 1px solid #ddd;">
-        <span style="font-size: 0.8rem; color: #666;">K</span>
+<div class="post-list">
+  {% for post in site.posts %}
+  <div class="card mb-3" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: none;">
+    <div class="card-body p-4">
+      
+      <div class="d-flex align-items-center mb-2">
+        <div class="rounded-circle bg-light d-flex justify-content-center align-items-center" style="width: 35px; height: 35px; border: 1px solid #ddd;">
+          <span style="font-size: 0.8rem; color: #666;">
+            {{ post.author | default: "Kiri" | slice: 0 }}
+          </span>
+        </div>
+        <div class="ml-2">
+          <span style="font-weight: 600; font-size: 0.95rem;">
+            {{ post.author | default: "Kiri Choi" }} 
+          </span>
+          <span style="color: #888; font-size: 0.85rem; margin-left: 5px;">
+            {{ post.date | date: "%-m월 %d일" }} (편집됨)
+          </span>
+        </div>
       </div>
-      <div class="ml-2">
-        <span style="font-weight: 600; font-size: 0.95rem;">Kiri Choi</span>
+      
+      <h3 class="card-title" style="font-weight: 800; margin-top: 10px; font-size: 1.5rem; color: #333;">
+        <a href="{{ post.url | relative_url }}" style="color: inherit; text-decoration: none;">{{ post.title }}</a>
+      </h3>
+      
+      <p class="text-muted" style="font-size: 0.95rem; margin-bottom: 15px;">
+        {{ post.date | date: "%Y년 %-m월 %d일" }}
+      </p>
+      
+      <div class="card-text" style="line-height: 1.6; color: #444;">
+        {{ post.content | strip_html | truncatewords: 40 }}
       </div>
+
     </div>
-    
-    <h3 class="card-title" style="font-weight: 800; margin-top: 10px;">The CSBLab website is officially live!</h3>
-    <p class="text-muted" style="font-size: 0.9rem;">2026년 1월 15일</p>
   </div>
+  {% endfor %}
 </div>
 
 ---
