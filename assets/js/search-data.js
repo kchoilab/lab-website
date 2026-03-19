@@ -66,7 +66,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/IN-SB-Lab/blog/2026/TheCSBLabWebsiteIsOfficiallyLive/";
+            window.location.href = "/IN-SB-Lab/news/2026/TheCSBLabWebsiteIsOfficiallyLive/";
           
         },
       },{id: "post-open-positions",
@@ -77,7 +77,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/IN-SB-Lab/blog/2026/OpenPositions/";
+            window.location.href = "/IN-SB-Lab/news/2026/OpenPositions/";
           
         },
       },{id: "books-the-godfather",
