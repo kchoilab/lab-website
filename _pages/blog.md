@@ -16,15 +16,6 @@ pagination:
   #   after: 3 # The number of links after the current page
 ---
 
-
----
-layout: page
-title: blog
-permalink: /blog/
-nav: true
-nav_order: 2
----
-
 <div class="post-list">
   {% for post in site.posts %}
   <div class="card mb-3" style="border-radius: 15px; border: 1px solid #e0e0e0; box-shadow: none;">
