@@ -19,9 +19,16 @@ profiles:
 
 Before joining Keimyung University, he was awarded **Swartz Foundation Fellowship for Theoretical Neuroscience** to investigate olfactory coding and odor-guided navigation under the supervision of Thierry Emonet at **Yale University**. He served as a Research Fellow at **KIAS** (Korea Institute for Advanced Study) under the supervision of Changbong Hyeon, studying the structural and connective features of the *Drosophila* olfactory system. He received his Ph.D. in Bioengineering from the **University of Washington** under the advice of Herbert Sauro, where he worked on the fundamental principle of biochemical reaction networks models He received his BS in Physics (Biophysics) from the same university.
     <br><br>
-     <div style="font-size: 0.9em;">
-      ✉️ <a href="mailto:kirichoi@kmu.ac.kr">Email</a> |  <a href="https://scholar.google.com/citations?user=vu7Ma2QAAAAJ&hl=en">Google Scholar</a> |  <a href="https://github.com/kirichoi">GitHub</a> | <a href="https://www.researchgate.net/profile/Kiri-Choi">ResearchGate</a> | <a href="https://twitter.com/kiri_choi">X/twitter</a> | <a href="https://orcid.org/0000-0002-0156-8410">ORCID</a> 
-    </div>
+     <div style="font-size: 0.9em; display: flex; align-items: center; gap: 5px; flex-wrap: wrap;">
+  ✉️ <a href="mailto:kirichoi@kmu.ac.kr">Email</a> |  
+  <a href="https://scholar.google.com">Google Scholar</a> |  
+  <a href="https://github.com/kirichoi">
+    <img src="{{ '/assets/img/github.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px;" alt="GitHub"> GitHub
+  </a> | 
+  <a href="https://www.researchgate.net">ResearchGate</a> | 
+  <a href="https://twitter.com">X/twitter</a> | 
+  <a href="https://orcid.org">ORCID</a> 
+</div>
   </div>
 </div>
 <br><br>
