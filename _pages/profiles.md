@@ -18,7 +18,7 @@ profiles:
     Kiri Choi is an Assistant Professor of the Department of Biological Sciences at Keimyung University. His research focuses on the intersection of biological structure and dynamic function, spanning from biochemical networks to brain circuits. 
 
 Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowship for Theoretical Neuroscience</b> to investigate olfactory coding and odor-guided navigation under the supervision of Thierry Emonet at <b>Yale University</b>. He served as a Research Fellow at <b>KIAS</b> (Korea Institute for Advanced Study) under the supervision of Changbong Hyeon, studying the structural and connective features of the <i>Drosophila</i> olfactory system. He received his Ph.D. in Bioengineering from the <b>University of Washington</b> under the advice of Herbert Sauro, where he worked on the fundamental principle of biochemical reaction networks models He received his BS in Physics (Biophysics) from the same university.
-    <br>
+    <br><br>
      <div style="font-size: 0.9em; display: flex; align-items: center; gap: 5px; flex-wrap: wrap;">
    <span style="font-size: 1.5em; line-height: 1;">✉️</span><a href="mailto:kirichoi@kmu.ac.kr">Email</a><span style="font-size: 1.7em; ">|</span>
    
@@ -84,7 +84,7 @@ Please email `kirichoi(at)kmu.ac.kr` with your CV and a brief statement of inter
   </div>
 
   <div style="flex-shrink: 0; min-width: 120px;">
-    <details style="cursor: pointer;" ontoggle="if(this.open) { this.scrollIntoView({behavior: 'smooth', block: 'nearest'}); }">
+    <details style="cursor: pointer;" ontoggle="if(this.open) {  const el = this; setTimeout(() => {const yOffset = 25;const y = el.getBoundingClientRect().top + window.pageYOffset + yOffset; window.scrollTo({top: y, behavior: 'smooth'});}, 100);}">
       <summary style="list-style: none; font-weight: bold; display: flex; align-items: center; gap: 5px;">
         <span class="sitemap-arrow" style="transition: transform 0.2s ease-in-out; display: inline-block; color: #828282 !important;">▶</span>
         <span>⚙️ Site Map</span>
