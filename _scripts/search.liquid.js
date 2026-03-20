@@ -26,10 +26,10 @@ ninja.data = [
             {
               {%- assign title = child.title | escape | strip -%}
               {%- if child.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = child.permalink -%}{%- endif -%}
-              id: "dropdown-{{ title | slugify }}",
-              title: "{{ title | truncatewords: 13 }}",
+              id: "dropdown-{{ title | slugify }}", title:"{{ title | truncatewords: 13 }}",
               description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
-              section: "Dropdown",
+              content: "{{ child.content | strip_html | strip_newlines | escape | strip }}", // 쉼표 꼭 확인!
+              section: "Dropdown", // Dropdown 하나만 둡니다.
               handler: () => {
                 window.location.href = "{{ url | relative_url }}";
               },
@@ -41,10 +41,10 @@ ninja.data = [
         {
           {%- assign title = p.title | escape | strip -%}
           {%- if p.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = p.url -%}{%- endif -%}
-          id: "nav-{{ title | slugify }}",
-          title: "{{ title | truncatewords: 13 }}",
-          description: "{{ p.description | strip_html | strip_newlines | escape | strip }}",
-          section: "Navigation",
+           id: "dropdown-{{ title | slugify }}", title:"{{ title | truncatewords: 13 }}",
+           description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
+           content: "{{ child.content | strip_html | strip_newlines | escape | strip }}", // 쉼표 꼭 확인!
+          section: "Dropdown", // Dropdown 하나만 둡니다.
           handler: () => {
             window.location.href = "{{ url | relative_url }}";
           },
@@ -65,6 +65,7 @@ ninja.data = [
           title: "{{ title | truncatewords: 13 }}",
         {% endif %}
         description: "{{ post.description | strip_html | strip_newlines | escape | strip }}",
+        content: "{{ post.content | strip_html | strip_newlines | escape | strip }}",
         section: "Posts",
         handler: () => {
           {% if post.redirect == blank %}
@@ -90,6 +91,7 @@ ninja.data = [
           id: "{{ collection.label }}-{{ title | slugify }}",
           title: '{{ title | escape | emojify | truncatewords: 13 }}',
           description: "{{ item.description | strip_html | strip_newlines | escape | strip }}",
+          content: "{{ item.content | strip_html | strip_newlines | escape | strip }}",
           section: "{{ collection.label | capitalize }}",
           {%- unless item.inline -%}
             handler: () => {
