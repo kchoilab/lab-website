@@ -41,7 +41,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   
   <a href="https://orcid.org" style="display: inline-flex; align-items: center;">
     <!-- ORCID: 크기를 1.5em으로 키우고 배경 제거 추가 -->
-    <img src="{{ '/assets/img/ORCIDLOGO.png' | relative_url }}" style="width: 4.0em; margin-left: -10px; margin-right: -10px; mix-blend-mode: multiply;" alt="ORCIDLOGO">ORCID
+    <img src="{{ '/assets/img/ORCIDLOGO.png' | relative_url }}" style="width: 4.0em; margin-left: -14px; margin-right: -12px; mix-blend-mode: multiply;" alt="ORCIDLOGO">ORCID
   </a> 
 </div>
   </div>
