@@ -21,13 +21,28 @@ Before joining Keimyung University, he was awarded **Swartz Foundation Fellowshi
     <br><br>
      <div style="font-size: 0.9em; display: flex; align-items: center; gap: 5px; flex-wrap: wrap;">
   ✉️ <a href="mailto:kirichoi@kmu.ac.kr">Email</a> |  
-  <a href="https://scholar.google.com"> <img src="{{ '/assets/img/google-scholar.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px;" alt="google-scholar"> Google Scholar</a> |  
+  
+  <a href="https://scholar.google.com">
+    <img src="{{ '/assets/img/google-scholar.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="google-scholar"> Google Scholar
+  </a> |  
+  
   <a href="https://github.com/kirichoi">
-    <img src="{{ '/assets/img/github.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px;" alt="GitHub"> GitHub
+    <img src="{{ '/assets/img/github.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="GitHub"> GitHub
   </a> | 
-  <a href="https://www.researchgate.net"> <img src="{{ '/assets/img/ResearcherGate.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px;" alt="ResearcherGate"> ResearchGate</a> | 
-  <a href="https://twitter.com"> <img src="{{ '/assets/img/Twitter.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px;" alt="Twitter"> X/twitter</a> | 
-  <a href="https://orcid.org"><img src="{{ '/assets/img/Orcid.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px;" alt="Orcid"> ORCID</a> 
+  
+  <a href="https://www.researchgate.net">
+    <img src="{{ '/assets/img/ResearcherGate.png' | relative_url }}" style="width: 1.2em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="ResearcherGate"> ResearchGate
+  </a> | 
+  
+  <a href="https://twitter.com">
+    <!-- X/Twitter: 크기를 1.5em으로 키우고 배경 제거 추가 -->
+    <img src="{{ '/assets/img/Twitter.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="Twitter"> X/twitter
+  </a> | 
+  
+  <a href="https://orcid.org">
+    <!-- ORCID: 크기를 1.5em으로 키우고 배경 제거 추가 -->
+    <img src="{{ '/assets/img/Orcid.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="Orcid"> ORCID
+  </a> 
 </div>
   </div>
 </div>
