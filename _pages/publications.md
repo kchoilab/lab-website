@@ -147,7 +147,7 @@ K.D. Yoon, M.H. Yang, Y.-W. Chin, Y. Kim, H.R. Kim, **K. Choi**, …, J.W. Kim<b
   </div>
 
   <div style="flex-shrink: 0; min-width: 120px;">
-    <details style="cursor: pointer;">
+    <details style="cursor: pointer;" ontoggle="if(this.open) {  const el = this; setTimeout(() => {const yOffset = 25;const y = el.getBoundingClientRect().top + window.pageYOffset + yOffset; window.scrollTo({top: y, behavior: 'smooth'});}, 100);}">
       <summary style="list-style: none; font-weight: bold; display: flex; align-items: center; gap: 5px;">
         <span class="sitemap-arrow" style="transition: transform 0.2s ease-in-out; display: inline-block; color: #828282 !important;">▶</span>
         <span>⚙️ Site Map</span>
