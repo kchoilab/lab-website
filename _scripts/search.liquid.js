@@ -37,14 +37,15 @@ ninja.data = [
           {%- endunless -%}
         {%- endfor -%}
 
-      {%- else -%}
+       {%- else -%}
         {
           {%- assign title = p.title | escape | strip -%}
           {%- if p.permalink contains "/blog/" -%}{%- assign url = "/blog/" -%} {%- else -%}{%- assign url = p.url -%}{%- endif -%}
-           id: "dropdown-{{ title | slugify }}", title:"{{ title | truncatewords: 13 }}",
-           description: "{{ child.description | strip_html | strip_newlines | escape | strip }}",
-           content: "{{ child.content | strip_html | strip_newlines | escape | strip }}", // 쉼표 꼭 확인!
-          section: "Dropdown", // Dropdown 하나만 둡니다.
+          id: "nav-{{ title | slugify }}",
+          title: "{{ title | truncatewords: 13 }}",
+          description: "{{ p.description | strip_html | strip_newlines | escape | strip }}",
+          content: "{{ p.content | strip_html | strip_newlines | escape | strip }}",
+          section: "Navigation",
           handler: () => {
             window.location.href = "{{ url | relative_url }}";
           },
