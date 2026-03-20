@@ -20,28 +20,28 @@ profiles:
 Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowship for Theoretical Neuroscience</b> to investigate olfactory coding and odor-guided navigation under the supervision of Thierry Emonet at <b>Yale University</b>. He served as a Research Fellow at <b>KIAS</b> (Korea Institute for Advanced Study) under the supervision of Changbong Hyeon, studying the structural and connective features of the <i>Drosophila</i> olfactory system. He received his Ph.D. in Bioengineering from the <b>University of Washington</b> under the advice of Herbert Sauro, where he worked on the fundamental principle of biochemical reaction networks models He received his BS in Physics (Biophysics) from the same university.
     <br>
      <div style="font-size: 0.9em; display: flex; align-items: center; gap: 5px; flex-wrap: wrap;">
-   <span style="font-size: 1.5em; line-height: 1;">✉️</span><a href="mailto:kirichoi@kmu.ac.kr">Email</a><span style="font-size: 1.7em; font-weight: bold;">|</span>
+   <span style="font-size: 1.5em; line-height: 1;">✉️</span><a href="mailto:kirichoi@kmu.ac.kr">Email</a><span style="font-size: 1.7em; ">|</span>
    
   
   <a href="https://scholar.google.com">
     <img src="{{ '/assets/img/google-scholar.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="google-scholar"> Google Scholar
-  </a> <span style="font-size: 1.7em; font-weight: bold;">|</span>
+  </a> <span style="font-size: 1.7em;">|</span>
   
   
   <a href="https://github.com/kirichoi">
     <img src="{{ '/assets/img/github.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="GitHub"> GitHub
-  </a> <span style="font-size: 1.7em; font-weight: bold;">|</span>
+  </a> <span style="font-size: 1.7em;">|</span>
  
   
   <a href="https://www.researchgate.net">
     <img src="{{ '/assets/img/ResearcherGate.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="ResearcherGate"> ResearchGate
-  </a> <span style="font-size: 1.7em; font-weight: bold;">|</span>
+  </a> <span style="font-size: 1.7em;">|</span>
  
   
   <a href="https://twitter.com">
     <!-- X/Twitter: 크기를 1.5em으로 키우고 배경 제거 추가 -->
     <img src="{{ '/assets/img/Twitter.png' | relative_url }}" style="width: 1.9em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="Twitter"> X/twitter
-  </a> <span style="font-size: 1.7em; font-weight: bold;">|</span>
+  </a> <span style="font-size: 1.7em;">|</span>
  
   
   <a href="https://orcid.org" style="display: inline-flex; align-items: center;">
