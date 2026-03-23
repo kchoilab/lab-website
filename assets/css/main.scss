@@ -37,3 +37,9 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+.navbar-brand img {
+  height: 50px !important;
+  width: auto;
+  margin-right: 10px;
+}
