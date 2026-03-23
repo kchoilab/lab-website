@@ -4,9 +4,8 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-        <img src="https://github.com" style="height: 24px; margin-right: 8px; vertical-align: middle;">
           {%- if site.icon -%}
-            <img src="{{ site.icon | relative_url }}" style="height: 24px; margin-right: 8px; vertical-align: middle; margin-top: -3px;">
+            <img src="{{ site.icon | relative_url }}" style="height: 40px; margin-right: 8px; vertical-align: middle; margin-top: -8px;">
           {%- endif -%}
           {%- if site.title == 'blank' -%}
             {%- if site.first_name -%}
