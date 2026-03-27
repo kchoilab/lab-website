@@ -40,8 +40,8 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
 
 
   <a href="https://twitter.com/kiri_choi">
-    <span class="icon-light"><img src="{{ '/assets/img/Twitter.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="Twitter"></span>
-    <span class="icon-dark"><img src="{{ '/assets/img/Twitter-dark.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px;" alt="Twitter"></span> X/twitter
+    <span class="icon-light"><img src="{{ '/assets/img/Twitter.png' | relative_url }}" style="width: 1.3em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="Twitter"></span>
+    <span class="icon-dark"><img src="{{ '/assets/img/Twitter-dark.png' | relative_url }}" style="width: 1.3em; vertical-align: middle; margin-right: 2px;" alt="Twitter"></span> X/twitter
   </a> <span style="font-size: 1.7em;">|</span>
 
 
