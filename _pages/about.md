@@ -38,7 +38,7 @@ We integrate **computational modeling**, **artificial intelligence**, and **quan
 ---
 
 
-👋 We are recruiting! If you are interested in joining, press [here](https://jsbyun3.github.io/IN-SB-Lab/people/).
+👋 We are recruiting! If you are interested in joining, press [here](https://kchoilab.com/people/#join-us).
 
 ---
 
