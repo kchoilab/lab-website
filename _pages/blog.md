@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /news/ #blog->news로 수
-title: news
+title: News
 nav: true
 nav_order: 6
 pagination:

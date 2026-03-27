@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: contact #bookshelf->contact
+title: Contact #bookshelf->contact
 permalink: /contact/
 nav: true #false->true
 collection: book
