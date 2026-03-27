@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jsbyun3.github.io/IN-SB-Lab/sitemap.xml
+Sitemap: https://kchoilab.github.io/lab-website/sitemap.xml
