@@ -72,13 +72,13 @@ We develop novel computational methods for network inference, optimization, and 
       {% assign posts = site.posts | reverse %}
       {% for item in posts limit: news_limit %}
         <div class="col-sm-4 mb-4">
-          <div class="card h-100" style="border-radius: 12px; border: 1px solid #e0e0e0; box-shadow: none;">
+          <div class="card h-100" style="border-radius: 12px; border: 1px solid var(--global-divider-color); box-shadow: none;">
             <div class="card-body d-flex flex-column p-4">
               <h3 class="card-title" style="font-weight: 700; font-size: 1.1rem; margin-bottom: 10px;">
                 <a href="{{ item.url | relative_url }}" style="color: inherit; text-decoration: none;">{{ item.title }}</a>
               </h3>
               <p class="text-muted" style="font-size: 0.85rem;">{{ item.date | date: "%Y년 %-m월 %d일" }}</p>
-              <div class="card-text mt-2" style="font-size: 0.9rem; line-height: 1.5; color: #444;">
+              <div class="card-text mt-2" style="font-size: 0.9rem; line-height: 1.5; color: var(--global-text-color);">
                 {{ item.content | strip_html | truncatewords: 15 }}
               </div>
             </div>
