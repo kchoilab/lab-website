@@ -73,7 +73,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   </div>
 </div>
 
-## Hyunmin Ju   | undergraduate student
+## Hyunmin Ju   | Undergraduate Student
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Hyunmin Ju"> -->
 
@@ -93,7 +93,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   </div>
 </div>
 
-## Jieun Min   | undergraduate student
+## Jieun Min   | Undergraduate Student
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Jieun Min"> -->
 
@@ -103,7 +103,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   </div>
 </div>
 
-## Hojeong Shin   | undergraduate student
+## Hojeong Shin   | Undergraduate Student
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Hojeong Shin"> -->
 
@@ -113,7 +113,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   </div>
 </div>
 
-## Hyosang Bae   | undergraduate student
+## Hyosang Bae   | Undergraduate Student
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Hyosang Bae"> -->
 
@@ -123,7 +123,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   </div>
 </div>
 
-## Seoyoung Kim   | undergraduate student
+## Seoyoung Kim   | Undergraduate Student
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Seoyoung Kim"> -->
 
@@ -133,7 +133,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   </div>
 </div>
 
-## Jinseok Byeon   | undergraduate student
+## Jinseok Byeon   | Undergraduate Student
 <div style="display: flex; gap: 20px; align-items: flex-start; margin-bottom: 40px;">
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Jinseok Byeon"> -->
 
