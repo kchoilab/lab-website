@@ -36,7 +36,7 @@ ninja.data = [{
         },{id: "nav-teaching",
           title: "teaching",
           description: "",
-          content: "#### **16164 일반미생물학 General Microbiology**- Spring 2026#### **46546 생물데이터분석 Biological Data Analysis**- Spring 2026#### **24996 산업미생물학 Industrial Microbiology**- Fall 2025#### **19249 환경미생물학 Environmental Microbiology**- Fall 2025#### **A9872  디지털헬스케어개론 Intro to Digital Healthcare**- Fall 2025---            Department of Biological Sciences |    Keimyung University                      ▶        ⚙️ Site Map                    People        Research        Publications        Teaching        Software        News        Contact                  Join us        © 2026 Kiri Choi.All rights reserved.",
+          content: "#### **16164 일반미생물학 General Microbiology**- Spring 2026#### **46546 생물데이터분석 Biological Data Analysis**- Spring 2026#### **24996 산업미생물학 Industrial Microbiology**- Fall 2025#### **19249 환경미생물학 Environmental Microbiology**- Fall 2025#### **A9872  디지털헬스케어개론 Intro to Digital Healthcare**- Fall 2025---            Department of Biological Sciences |    Keimyung University                      ▶        ⚙️ Site Map                    People        Research        Publications        Teaching        Software        News        Contact                  Join us        © {{ site.time | date: &quot;%Y&quot; }} Kiri Choi.All rights reserved.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
