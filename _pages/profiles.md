@@ -29,8 +29,8 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
 
 
   <a href="https://github.com/kirichoi">
-    <img src="{{ '/assets/img/github.png' | relative_url }}" class="only-light" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="GitHub">
-    <img src="{{ '/assets/img/github-dark.png' | relative_url }}" class="only-dark" style="width: 1.5em; vertical-align: middle; margin-right: 2px;" alt="GitHub"> GitHub
+    <span class="icon-light"><img src="{{ '/assets/img/github.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="GitHub"></span>
+    <span class="icon-dark"><img src="{{ '/assets/img/github-dark.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px;" alt="GitHub"></span> GitHub
   </a> <span style="font-size: 1.7em;">|</span>
 
 
@@ -40,8 +40,8 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
 
 
   <a href="https://twitter.com/kiri_choi">
-    <img src="{{ '/assets/img/Twitter.png' | relative_url }}" class="only-light" style="width: 1.9em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="Twitter">
-    <img src="{{ '/assets/img/Twitter-dark.png' | relative_url }}" class="only-dark" style="width: 1.9em; vertical-align: middle; margin-right: 2px;" alt="Twitter"> X/twitter
+    <span class="icon-light"><img src="{{ '/assets/img/Twitter.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px; mix-blend-mode: multiply;" alt="Twitter"></span>
+    <span class="icon-dark"><img src="{{ '/assets/img/Twitter-dark.png' | relative_url }}" style="width: 1.5em; vertical-align: middle; margin-right: 2px;" alt="Twitter"></span> X/twitter
   </a> <span style="font-size: 1.7em;">|</span>
 
 
@@ -195,9 +195,15 @@ Please email `kirichoi(at)kmu.ac.kr` with your CV and a brief statement of inter
   /* 기본 화살표 제거 */
   summary::-webkit-details-marker { display: none; }
   summary { list-style: none; }
-  
+
   /* 클릭 시 화살표 회전 */
   details[open] .sitemap-arrow {
     transform: rotate(90deg);
   }
+
+  /* Inline icon light/dark swap */
+  .icon-light { display: inline; }
+  .icon-dark  { display: none; }
+  html[data-theme="dark"] .icon-light { display: none; }
+  html[data-theme="dark"] .icon-dark  { display: inline; }
 </style>
