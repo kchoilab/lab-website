@@ -58,7 +58,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Dongheon Lee"> -->
 
   <div style="line-height: 1.6;">
-    Dongheon Lee is an undergraduate researcher in the Department of Life Sciences at Keimyung University. He joined the lab to pursue his interest in neuroscience, specializing in experimental biology using Drosophila models. He is dedicated to mastering practical laboratory skills. His personal interests include growing plants, fishing, and photography.
+    Dongheon Lee is an undergraduate researcher in the Department of Biological Sciences. He joined the lab to pursue his interest in neuroscience, specializing in experimental biology using <i>Drosophila</i> models. He is dedicated to mastering practical laboratory skills. His personal interests include growing plants, fishing, and photography.
     <br><br>
   </div>
 </div>
@@ -68,7 +68,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Gyumin Lee"> -->
 
   <div style="line-height: 1.6;">
-    Gyumin Lee is an undergraduate researcher in the Department of Life Sciences at Keimyung University, where she is pursuing a degree in Computer Science. Driven by her interest in Bio-AI, she joined Professor Kiri Choi’s laboratory to explore the intersection of computing and biology. She is currently focusing on AI-driven research automation to innovate laboratory processes. In her free time, she listens to music to recharge and recover from her academic projects.
+    Gyumin Lee is an undergraduate researcher from the Department of Computer Engineering. Driven by her interest in Bio-AI, she joined the lab to explore the intersection of computing and biology. She is currently focusing on AI-driven research automation to innovate laboratory processes. In her free time, she listens to music to recharge and recover from her academic projects.
     <br><br>
   </div>
 </div>
@@ -78,7 +78,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Hyunmin Ju"> -->
 
   <div style="line-height: 1.6;">
-    Hyunmin Ju is an undergraduate researcher in the Department of Life Sciences at Keimyung University. He is passionate about uncovering the fundamental mechanisms of life, with a specific focus on cancer research using Drosophila as a model system. Outside of the lab, he recharges by listening to music, watching movies, and playing RPGs.
+     Hyunmin Ju is an undergraduate researcher in the Department of Biological Sciences. He is passionate about uncovering the fundamental mechanisms of life, with a specific focus on cancer research using <i>Drosophila</i> as a model system. Outside of the lab, he recharges by listening to music, watching movies, and playing RPGs.
     <br><br>
   </div>
 </div>
@@ -88,7 +88,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Junwoo Shin"> -->
 
   <div style="line-height: 1.6;">
-    Junwoo Shin is an undergraduate researcher at Keimyung University, majoring in Mathematics with a minor in Chemistry. Since joining the laboratory in January 2026, he has been studying Compressed Sensing and image reconstruction algorithms under the supervision of Professor Kiri Choi. His academic interests also include Graph Theory. He is a big supporter of Daegu FC and enjoys playing sports, watching games, and taking photographs with his Minolta X-300 film camera.
+    Junwoo Shin is an undergraduate researcher majoring in Mathematics with a minor in Chemistry. Since joining the lab, he has been studying compressed sensing and image reconstruction algorithms. His academic interests also include graph theory. He is a big supporter of Daegu FC and enjoys playing sports, watching games, and taking photographs with his Minolta X-300 film camera.
     <br><br>
   </div>
 </div>
@@ -98,7 +98,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Jieun Min"> -->
 
   <div style="line-height: 1.6;">
-    Ji-eun Min is a student in the Department of Biological Sciences at Keimyung University, currently learning research under Professor Kiri Choi. She is interested in combining molecular biology and computational biology to analyze biological phenomena at the molecular level. In her free time, she enjoys listening to music.
+    Ji-eun Min is a student in the Department of Biological Sciences. She is interested in combining molecular biology and computational biology to analyze biological phenomena at the molecular level. In her free time, she enjoys listening to music.
     <br><br>
   </div>
 </div>
@@ -108,7 +108,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Hojeong Shin"> -->
 
   <div style="line-height: 1.6;">
-    HoJeong Shin is an undergraduate researcher in the Department of Biological Science at Keimyung University. Her research interests lie at the intersection of biology and technology, specifically in AI-driven analysis and computational biology. She aims to bridge the gap between biological theory and computational application. In her free time, she stays consistent with her fitness routine.
+    HoJeong Shin is an undergraduate researcher in the Department of Biological Science. Her research interests lie at the intersection of biology and technology, specifically in AI-driven analysis and computational biology. She aims to bridge the gap between biological theory and computational application. In her free time, she stays consistent with her fitness routine.
     <br><br>
   </div>
 </div>
@@ -118,7 +118,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Hyosang Bae"> -->
 
   <div style="line-height: 1.6;">
-    Hyosang Bae is an undergraduate researcher and a junior in the Department of Life Sciences at Keimyung University. His research interest lies in experimental biology using Drosophila as a model system, which led him to join the laboratory. Beyond his academic pursuits, he enjoys watching documentaries, gaming, and reading novels. He is currently focusing on gaining hands-on experience in biological experiments and understanding the fundamental mechanisms of life sciences
+    Hyosang Bae is an undergraduate researcher and a junior in the Department of Biological Sciences. His research interest lies in experimental biology using <i>Drosophila</i> as a model system, which led him to join the laboratory. Beyond his academic pursuits, he enjoys watching documentaries, gaming, and reading novels. He is currently focusing on gaining hands-on experience in biological experiments and understanding the fundamental mechanisms of life.
     <br><br>
   </div>
 </div>
@@ -128,7 +128,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Seoyoung Kim"> -->
 
   <div style="line-height: 1.6;">
-    Seoyoung Kim is an undergraduate student in the Department of Life Sciences at Keimyung University. She is particularly interested in neuroscience and bioinformatics, focusing on understanding how biological systems process and analyze information. In her free time, she enjoys relaxing and recharging to maintain a balanced academic life.
+    Seoyoung Kim is an undergraduate student in the Department of Biological Sciences. She is particularly interested in neuroscience and bioinformatics, focusing on understanding how biological systems process and analyze information. In her free time, she enjoys relaxing and recharging to maintain a balanced academic life.
     <br><br>
   </div>
 </div>
@@ -138,7 +138,7 @@ Before joining Keimyung University, he was awarded <b>Swartz Foundation Fellowsh
   <!-- <img src="{{ '/assets/img/사진파일명' | relative_url }}" style="width: 150px; border-radius: 8px; flex-shrink: 0;" alt="Jinseok Byeon"> -->
 
   <div style="line-height: 1.6;">
-    Jinseok Byun is an undergraduate researcher in the Department of Life Science at Keimyung University, where he is also pursuing a degree in Statistics. His research interests lie at the intersection of Neuroscience and AI, with a particular focus on Olfactory AI. Driven by his core vision of becoming a 'Heart Toucher,' he aspires to be a researcher who heals the human body through advanced technology and the human soul through poetry. Outside of his academic pursuits, he finds true happiness in writing poetry:memo: and starting his day with a morning run  :runner:
+    Jinseok Byun is an undergraduate researcher from the Department of Statistics. His research interests lie at the intersection of Neuroscience and AI, with a particular focus on olfactory AI. Driven by his core vision of becoming a 'Heart Toucher,' he aspires to be a researcher who heals the human body through advanced technology and the human soul through poetry. Outside of his academic pursuits, he finds true happiness in writing poetry :memo: and starting his day with a morning run :runner:
     <br><br>
   </div>
 </div>

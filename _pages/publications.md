@@ -7,12 +7,12 @@ nav: true
 nav_order: 3
 ---
 
-**indicates equal contribution*
+* *indicates equal contribution*
 
 ### 2024
 
 - **Bifurcation Enhances Temporal Information Encoding in the Olfactory Periphery<br>
-K. Choi***, W. Rosenbluth*****, I.R. Graf, N. Kadakia, T. Emonet<br>
+K. Choi**\*, W. Rosenbluth\*, I.R. Graf, N. Kadakia, T. Emonet<br>
 *PRX Life.* 2, 043011 (2024)<br>
 [10.1103/PRXLife.2.043011](https://doi.org/10.1103/PRXLife.2.043011)<br>
 - **Unveiling the Odor Representation in the Inner Brain of *Drosophila* through Compressed Sensing<br>
@@ -26,7 +26,7 @@ K. Choi**, W.K. Kim, C. Hyeon<br>
 W.K. Kim, **K. Choi**, C. Hyeon, S.J. Jang<br>
 *J. Phys. Chem. Lett.* 14 (XXX), 8412–8420 (2023)<br>
 [10.1021/acs.jpclett.3c02310](https://doi.org/10.1021/acs.jpclett.3c02310)<br>
-- **libRoadRunner 2.0: A High-Performance SBML Simulation and Analysis Library**
+- **libRoadRunner 2.0: A High-Performance SBML Simulation and Analysis Library**<br>
 C. Welsh, J. Xu, L. Smith, M. König, **K. Choi**, H.M. Sauro<br>
 *Bioinformatics.* 39(1), btac770 (2023)<br>
 [10.1093/bioinformatics/btac770](https://doi.org/10.1093/bioinformatics/btac770)<br>
@@ -57,7 +57,7 @@ J.H. Woo, **K. Choi**, S.H. Kim, K. Han, M.Y. Choi<br>
 ### 2021
 
 - **Characterization of multiscale logic operations in the neural circuits**<br>
-J.H. Woo*, **K. Choi***, S.H. Kim, K. Han, M.Y. Choi<br>
+J.H. Woo\*, **K. Choi**\*, S.H. Kim, K. Han, M.Y. Choi<br>
 *Front Biosci.-Landmark.* 26 (10), 723–739 (2021)<br>
 [10.52586/4983](https://doi.org/10.52586/4983)<br>
 - **Status and Challenges of Reproducibility in Computational Systems and Synthetic Biology**<br>
