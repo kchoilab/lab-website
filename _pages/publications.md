@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-* *indicates equal contribution*
+\* *indicates equal contribution*
 
 ### 2024
 
