@@ -29,7 +29,7 @@ pip install tellurium
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="{{ '/assets/img/libroadrunner_logo_tan.jpg' | relative_url }}" style="width: 80px; height: auto;" alt="libRoadRunner Logo">
   
-  <h2 style="margin: 0; border: none;">TlibRoadRunner</h2>
+  <h2 style="margin: 0; border: none;">libRoadRunner</h2>
 </div>
 
 <p>A high-performance SBML simulation engine that uses LLVM JIT compilation to simulate massive biochemical networks in milliseconds. It supports deterministic (ODE), stochastic (Gillespie), and metabolic control analysis (MCA), and can be deployed as a standalone library for large-scale ensemble modeling.</p>
