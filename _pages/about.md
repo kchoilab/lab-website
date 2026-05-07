@@ -69,7 +69,7 @@ We develop novel computational methods for network inference, optimization, and 
   {% if site.posts != blank %}
     <div class="row">
       {% assign news_limit = 3 %}
-      {% assign posts = site.posts | reverse %}
+      {% assign posts = site.posts %}
       {% for item in posts limit: news_limit %}
         <div class="col-sm-4 mb-4">
           <div class="card h-100" style="border-radius: 12px; border: 1px solid var(--global-divider-color); box-shadow: none;">

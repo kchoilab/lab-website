@@ -18,7 +18,12 @@ pagination:
 
 <div class="post-list">
   {% for post in site.posts %}
-  <div class="card mb-3" style="border-radius: 15px; border: 1px solid var(--global-divider-color); box-shadow: none;">
+  <div class="card mb-3" style="border-radius: 15px; border: 1px solid var(--global-divider-color); box-shadow: none; overflow: hidden;">
+    {% if post.thumbnail %}
+    <a href="{{ post.url | relative_url }}">
+      <img src="{{ post.thumbnail | relative_url }}" style="width: 100%; max-height: 280px; object-fit: cover; display: block;" alt="{{ post.title }}">
+    </a>
+    {% endif %}
     <div class="card-body p-4">
 
       <div class="d-flex align-items-center mb-2">
