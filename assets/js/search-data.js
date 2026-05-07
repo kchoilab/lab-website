@@ -52,7 +52,7 @@ ninja.data = [{
         },{id: "nav-news",
           title: "News",
           description: "",
-          content: "K                                                Kiri Choi                                3월 27일 (편집됨)                                      The IN/SBLab website is officially live!                    2026년 3월 27일                                                                            K                                                Kiri Choi                                3월 27일 (편집됨)                                      Open Positions                    2026년 3월 27일                    We are actively recruiting MS/PhD students with backgrounds in Biology, Physics, CS, Statistics, or Bioengineering.                          Department of Biological Sciences |    Keimyung University                      ▶        ⚙️ Site Map                    People        Research        Publications        Teaching        Software        News        Contact                  Join us        © 2026 Kiri Choi.All rights reserved.",
+          content: "K                                                Kiri Choi                                4월 10일 (편집됨)                                      Spring Lab outing                    2026년 4월 10일                                                                                  K                                                Kiri Choi                                3월 27일 (편집됨)                                      The IN/SBLab website is officially live!                    2026년 3월 27일                                                                            K                                                Kiri Choi                                3월 27일 (편집됨)                                      Open Positions                    2026년 3월 27일                    We are actively recruiting MS/PhD students with backgrounds in Biology, Physics, CS, Statistics, or Bioengineering.                          Department of Biological Sciences |    Keimyung University                      ▶        ⚙️ Site Map                    People        Research        Publications        Teaching        Software        News        Contact                  Join us        © 2026 Kiri Choi.All rights reserved.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
@@ -65,7 +65,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-the-in-sblab-website-is-officially-live",
+        },{id: "post-spring-lab-outing",
+        
+          title: "Spring Lab outing",
+        
+        description: "",
+        content: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/news/2026/LabOuting/";
+          
+        },
+      },{id: "post-the-in-sblab-website-is-officially-live",
         
           title: "The IN/SBLab website is officially live!",
         
