@@ -15,7 +15,7 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
 
 <div class="row items-center mb-5">
   <div class="col-sm-3">
-    <img src="{{ '/assets/img/2_1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Dynamics Image">
+    <img src="{{ '/assets/img/2_1.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 280px; object-fit: cover;" alt="Dynamics Image">
   </div>
   <div class="col-sm-9">
     <h3 class="title">Dynamics of Chemosensory Receptors</h3>
@@ -34,7 +34,7 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
     <p>Navigation is an active process shaped by <strong>odor value</strong> and context. We investigate the algorithms that allow <em>Drosophila</em> to make informed decisions in complex environments.By integrating <strong>quantitative behavioral experiments</strong> with <strong>Artificial Intelligence</strong>, we model how the brain integrates various navigational cues to guide movement. We are particularly interested in how the brain updates the "value" of an odor based on changing environmental contexts to drive decision-making.</p>
   </div>
   <div class="col-sm-4">
-    <img src="{{ '/assets/img/1_1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Perception Image">
+    <img src="{{ '/assets/img/1_1.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 280px; object-fit: cover;" alt="Perception Image">
   </div>
 </div>
 
@@ -43,7 +43,7 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
 
 <div class="row items-center mb-5">
   <div class="col-sm-3">
-    <img src="{{ '/assets/img/3_2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Biological System Image">
+    <img src="{{ '/assets/img/3_2.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 280px; object-fit: cover;" alt="Biological System Image">
   </div>
   <div class="col-sm-9">
     <h3 class="title">Information Processing in Biological Systems</h3>
@@ -62,7 +62,7 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
     <p>Biological processes are complex and demand advanced software tools. We develop novel computational methods to interpret high-dimensional biological data, focusing on <strong>network inference</strong>, <strong>optimization</strong>, and <strong>clustering</strong>. Our research addresses the challenge of recovering underlying system structures from sparse experimental data. Additionally, we focus on enhancing model reuse and reproducibility in biological modeling through the development of industry-standard simulation tools.</p>
   </div>
   <div class="col-sm-4">
-    <img src="{{ '/assets/img/4_2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Biological Algorithm Image">
+    <img src="{{ '/assets/img/4_2.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 280px; object-fit: cover;" alt="Biological Algorithm Image">
   </div>
 </div>
 
