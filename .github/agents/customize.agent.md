@@ -248,7 +248,7 @@ npx prettier . --write
 
 ### 11. GitHub Repositories Display
 
-**Files:** `_data/repositories.yml`, `_pages/repositories.md`
+**Files:** `_data/repositories.yml`, `_pages/software.md`
 
 - Add GitHub usernames and repository names
 - Displayed with stats and trophies on repositories page
