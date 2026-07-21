@@ -9,40 +9,52 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Our lab combines **neuroscience**, **biophysics**, and **systems biology** to understand how biological systems process information and maintain robust function. We are particularly interested in the intersection of structural connectivity and dynamic function.
+Our lab combines **neuroscience**, **biophysics**, and **systems biology** to understand how biological systems process information to function.
 
 ---
 
 <div class="d-flex flex-wrap align-items-center mb-5" style="gap: 30px;">
-  <img src="{{ '/assets/img/2_1.png' | relative_url }}" class="rounded z-depth-1" style="width: 200px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Dynamics Image">
-  <div style="flex: 1 1 300px; min-width: 0;">
-    <h3 class="title">Dynamics of Chemosensory Receptors</h3>
-    <p class="font-italic">What is the principle of chemical sensing?</p>
-    <p>We investigate how sensory information is encoded at the molecular interface. Our research focuses on the <strong>dynamics of ligand-receptor binding</strong> to understand how olfactory neurons encode fluctuating odor signals. We analyze how the binding kinetics of olfactory receptors constrain the system's ability to encode context-dependent information. By modeling these initial interactions, we aim to determine the fundamental limits of sensory encoding and how these constraints shape downstream neural processing.</p>
-  </div>
-</div>
-
-<br>
-<br>
-
-<div class="d-flex flex-wrap align-items-center mb-5" style="gap: 30px;">
   <div style="flex: 1 1 300px; min-width: 0;">
     <h3 class="title">Olfactory Perception & Decision-Making 🪰👃</h3>
-    <p class="font-italic">What forms our perception of a smell?</p>
-    <p>Navigation is an active process shaped by <strong>odor value</strong> and context. We investigate the algorithms that allow <em>Drosophila</em> to make informed decisions in complex environments.By integrating <strong>quantitative behavioral experiments</strong> with <strong>Artificial Intelligence</strong>, we model how the brain integrates various navigational cues to guide movement. We are particularly interested in how the brain updates the "value" of an odor based on changing environmental contexts to drive decision-making.</p>
+    <p class="font-italic">What shapes our perception of smell?</p>
+    <p>Navigation is an active process shaped by <strong>odor value</strong> and context. We investigate the algorithms that allow <em>Drosophila</em> to make informed decisions in complex environments. By combining <strong>quantitative behavioral experiments</strong> with <strong>artificial intelligence</strong>, we model how the brain integrates various navigational cues to guide movement. We are particularly interested in how the brain revises the value it assigns to an odor as the environment changes and how that value guides behavior.</p>
   </div>
-  <img src="{{ '/assets/img/1_1.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Perception Image">
+  <img src="{{ '/assets/img/1_1.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 220px; object-fit: cover; flex-shrink: 0;" alt="Perception Image">
 </div>
 
 <br>
 <br>
 
 <div class="d-flex flex-wrap align-items-center mb-5" style="gap: 30px;">
-  <img src="{{ '/assets/img/3_2.png' | relative_url }}" class="rounded z-depth-1" style="width: 200px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Biological System Image">
+  <img src="{{ '/assets/img/2_1.png' | relative_url }}" class="rounded z-depth-1" style="width: 220px; height: 220px; object-fit: cover; flex-shrink: 0;" alt="Dynamics Image">
+  <div style="flex: 1 1 300px; min-width: 0;">
+    <h3 class="title">Dynamics of Chemosensory Receptors</h3>
+    <p class="font-italic">What principles govern chemical sensing?</p>
+    <p>We investigate how sensory information is encoded at the molecular interface. We study the <strong>dynamics of ligand-receptor binding</strong> to understand how olfactory neurons encode strongly fluctuating odor signals. We analyze how receptor kinetics constrain the encoding of context-dependent information. By modeling these interactions, we aim to elucidate the principles of chemical sensing and its effect on downstream neural processing.</p>
+  </div>
+</div>
+
+<br>
+<br>
+
+<div class="d-flex flex-wrap align-items-center mb-5" style="gap: 30px;">
+  <div style="flex: 1 1 300px; min-width: 0;">
+    <h3 class="title">Machine Learning for Biological Discovery</h3>
+    <p class="font-italic">Using AI to learn the rules that govern living systems</p>
+    <p>Modern biology generates data at a scale and dimensionality that outpaces traditional analysis. We apply <strong>machine learning</strong> to extract interpretable structure from complex biological data. We are particularly interested in applying <strong>graph neural networks (GNNs)</strong> to predict biological properties from molecular structure. Our applications range from <strong>computational olfaction</strong> to the design of <strong>drug-delivery systems</strong>. Using <strong>explainable AI</strong>, we investigate the principles underlying biological phenomena.</p>
+  </div>
+  <img src="{{ '/assets/img/0_1.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 220px; object-fit: cover; flex-shrink: 0;" alt="Perception Image">
+</div>
+
+<br>
+<br>
+
+<div class="d-flex flex-wrap align-items-center mb-5" style="gap: 30px;">
+  <img src="{{ '/assets/img/3_2.png' | relative_url }}" class="rounded z-depth-1" style="width: 220px; height: 220px; object-fit: cover; flex-shrink: 0;" alt="Biological System Image">
   <div style="flex: 1 1 300px; min-width: 0;">
     <h3 class="title">Information Processing in Biological Systems</h3>
     <p class="font-italic">What makes biological networks robust?</p>
-    <p>We use the olfactory system as a model to uncover universal principles of biological computation. Our goal is to understand how the <strong>structure</strong> of a network determines its <strong>function</strong> across different biological systems—from the large-scale connectomics of neural circuits to biochemical signaling pathways. We investigate the relationship between connectivity and neural dynamics, seeking to identify the topological motifs that ensure robust information processing and function.</p>
+    <p>We use the olfactory system as a model to uncover universal principles of biological computation. We aim to understand how network structure shapes function across biological systems at various scales, from <strong>neural circuits</strong> to <strong>biochemical signaling pathways</strong>. We investigate the relationship between connectivity and system dynamics to identify topological motifs that support robust information processing.</p>
   </div>
 </div>
 
@@ -51,11 +63,11 @@ Our lab combines **neuroscience**, **biophysics**, and **systems biology** to un
 
 <div class="d-flex flex-wrap align-items-center mb-5" style="gap: 30px;">
   <div style="flex: 1 1 300px; min-width: 0;">
-    <h3 class="title"> Biological Algorithm Development</h3>
-    <p class="font-italic">Software as a scientific output.</p>
-    <p>Biological processes are complex and demand advanced software tools. We develop novel computational methods to interpret high-dimensional biological data, focusing on <strong>network inference</strong>, <strong>optimization</strong>, and <strong>clustering</strong>. Our research addresses the challenge of recovering underlying system structures from sparse experimental data. Additionally, we focus on enhancing model reuse and reproducibility in biological modeling through the development of industry-standard simulation tools.</p>
+    <h3 class="title">Computational Methods and Scientific Software</h3>
+    <p class="font-italic">Software as a scientific contribution.</p>
+    <p>Understanding complex biological systems requires advanced computational tools. We develop methods for analyzing high-dimensional biological data, with a focus on <strong>network inference</strong>, <strong>optimization</strong>, and <strong>clustering</strong>. In particular, we study algorithms that can extract maximum information from sparse experimental data to help guide accurate reconstructions and predictions. We also develop standards-based simulation tools that make biological models easier to reuse and simulation results easier to reproduce.</p>
   </div>
-  <img src="{{ '/assets/img/4_2.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 200px; object-fit: cover; flex-shrink: 0;" alt="Biological Algorithm Image">
+  <img src="{{ '/assets/img/4_2.png' | relative_url }}" class="rounded z-depth-1" style="width: 280px; height: 220px; object-fit: cover; flex-shrink: 0;" alt="Biological Algorithm Image">
 </div>
 
 <br>
