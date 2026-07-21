@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Our lab combines **neuroscience**, **biophysics**, and **systems biology** to understand how biological systems process information to function.
+Our lab combines **neuroscience**, **biophysics**, **systems biology**, and **bioinformatics** to understand how biological systems process information.
 
 ---
 
