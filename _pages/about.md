@@ -27,13 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### **Integrative Neuro-Systems Biology Group at Keimyung University**
+### **Integrative NeuroAI-Systems Biology Group at Keimyung University**
 
-We study the principles of olfaction, from sensory dynamics to olfactory perception and decision-making.
+We study the principles that govern olfaction, from receptor dynamics to perception and decision-making.
 
-Using the ***Drosophila* olfactory system** as a model, we explore how the brain transforms complex sensory inputs into optimal behavioral choices. Our research traces the olfactory information processing pipeline across scales: from the physical dynamics of **ligand-receptor binding** to the high-level **neural algorithms** that drive navigation.
+Using the ***Drosophila* olfactory system** as a model, we inestigate how the brain transforms complex sensory inputs into adaptive behavior. Our work follows olfactory processing across scales, from the physical dynamics of **ligand-receptor binding** to the **neural computations** that guide navigation.
 
-We integrate **computational modeling**, **artificial intelligence**, and **quantitative experiments** to understand how biological systems—from signaling pathways to the *Drosophila* brain—process information and respond to their environment.
+We integrate **computational modeling**, **artificial intelligence**, and **quantitative experiments** to understand how biological systems—from signaling pathways to the *Drosophila* brain—detect signals, transform information, and generate responses.
 
 ---
 
@@ -44,17 +44,21 @@ We integrate **computational modeling**, **artificial intelligence**, and **quan
 
 ### **🔬 What we study**
 
-**1. Chemosensory Receptor Dynamics**  
-We investigate how cells robustly encode external stimuli by studying the dynamics of chemosensory receptors. We aim to understand the fundamental limits of sensory encoding at the molecular interface.
+**1. Olfactory Perception & Decision-Making**  
+We investigate how animals use olfactory information to make decisions in complex environments. By combining behavioral experiments with artificial intelligence, we seek to identify the neural computations that link odor perception to navigation in *Drosophila*.
 
-**2. Olfactory Perception & Decision-Making**  
-We investigate how animals make decisions in complex environments. We integrate behavioral experiments and Artificial Intelligence to decode the algorithms of olfactory processing in *Drosophila*.
+**2. Dynamics of Chemosensory Receptors**  
+We study the dynamics of chemosensory receptors to understand how cells reliably encode external stimuli. Our goal is to define the fundamental limits of sensory encoding at the molecular interface.
 
-**3. Information Processing in Biological Systems**  
-We use olfaction as a model to uncover universal principles of biological computation. We investigate how biological networks—from biochemical signaling pathways to neural circuits—process information to ensure robust function.
+**3. Machine Learning for Biological Discovery**  
+We apply machine learning to extract interpretable structure from complex biological data. We develop models to predict functional properties from molecular structure and use explainable AI to investigate the principles underlying biological phenomena.
 
-**4. Biological Algorithm Development**  
-We develop novel computational methods for network inference, optimization, and clustering to interpret high-dimensional biological data.
+**4. Information Processing in Biological Systems**  
+We use olfaction as a model to uncover general principles of biological computation. We investigate how biological networks—from biochemical signaling pathways to neural circuits—process information while remaining robust to perturbations.
+
+**5. Biological Algorithm Development**  
+We develop computational methods for network inference, optimization, and clustering to analyze high-dimensional biological data.
+
 
 <p class="mt-2">
   👉 <a href="{{ '/research/' | relative_url }}">Click here to read more about our research</a>
