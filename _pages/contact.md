@@ -35,9 +35,9 @@ Daegu 42601, South Korea
     1095 Dalgubeol-daero, Dalseo-gu<br>
     Daegu 42601, South Korea<br>
     </p>
-    <p>백은관 254-1호  
-    계명대학교 생명과학과  
-    대구광역시 달서구 달구벌대로 1095 (우)42601  
+    <p>백은관 254-1호<br>
+    계명대학교 생명과학과<br>
+    대구광역시 달서구 달구벌대로 1095 (우)42601
     </p>
   </div>
 
@@ -55,13 +55,13 @@ Daegu 42601, South Korea
 
 ### Kiri Choi
 
-Backeun Hall, Room 252
-Department of Biological Sciences, Keimyung University
-1095 Dalgubeol-daero, Dalseo-gu
+Backeun Hall, Room 252  
+Department of Biological Sciences, Keimyung University  
+1095 Dalgubeol-daero, Dalseo-gu  
 Daegu 42601, South Korea
 
-백은관 252호
-계명대학교 생명과학과
+백은관 252호  
+계명대학교 생명과학과  
 대구광역시 달서구 달구벌대로 1095 (우)42601  
 
 ✉️ kirichoi(at)kmu.ac.kr  
