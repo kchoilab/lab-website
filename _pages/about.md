@@ -101,6 +101,38 @@ We develop computational methods for network inference, optimization, and cluste
 
 ---
 
+### **We are funded by**
+<br>
+<div class="funding-logos">
+  <a href="https://www.msit.go.kr/eng/index.do" target="_blank" rel="noopener" aria-label="Ministry of Science and ICT">
+    <img src="{{ '/assets/img/logos/MSIT.svg' | relative_url }}" alt="Ministry of Science and ICT" style="height: 38px;">
+  </a>
+  <a href="https://www.nrf.re.kr/eng/index" target="_blank" rel="noopener" aria-label="National Research Foundation of Korea">
+    <img src="{{ '/assets/img/logos/NRF.svg' | relative_url }}" alt="National Research Foundation of Korea" style="height: 52px;">
+  </a>
+</div>
+
+<style>
+  .funding-logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 36px;
+    margin-bottom: 30px;
+  }
+  .funding-logos img {
+    width: auto;
+    max-width: 100%;
+  }
+  html[data-theme="dark"] .funding-logos img {
+    background: #fff;
+    border-radius: 6px;
+    padding: 6px 10px;
+  }
+</style>
+
+---
+
 <div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 40px; margin-bottom: 30px;">
   
   <img src="{{ '/assets/img/kmu_type30.png' | relative_url }}" style="width: 150px; height: auto; flex-shrink: 0;" alt="kmu logo">
