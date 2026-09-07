@@ -52,7 +52,7 @@ ninja.data = [{
         },{id: "nav-news",
           title: "News",
           description: "",
-          content: "K                                                Kiri Choi                                4월 10일 (편집됨)                                      End of Semester Party                    2026년 4월 10일                                                                                                    K                                                Kiri Choi                                4월 10일 (편집됨)                                      Spring Lab outing                    2026년 4월 10일                                                                                      K                                                Kiri Choi                                3월 27일 (편집됨)                                      The IN/SBLab website is officially live!                    2026년 3월 27일                                                                                K                                                Kiri Choi                                3월 27일 (편집됨)                                      Open Positions                    2026년 3월 27일                    We are actively recruiting MS/PhD students with backgrounds in Biology, Physics, CS, Statistics, or Bioengineering.                          Department of Biological Sciences |    Keimyung University                      ▶        ⚙️ Site Map                    People        Research        Publications        Teaching        Software        News        Contact                  Join us        © 2026 Kiri Choi.All rights reserved.",
+          content: "K                                                Kiri Choi                                9월 01일 (편집됨)                                      We have been awarded by NRF!                    2026년 9월 01일                    Our lab has been awarded the National Research Foundation of Korea (NRF) Core Research grant!                                                                              K                                                Kiri Choi                                8월 27일 (편집됨)                                      Start of Semester Party                    2026년 8월 27일                                                                                                    K                                                Kiri Choi                                6월 26일 (편집됨)                                      End of Semester Party                    2026년 6월 26일                                                                                                    K                                                Kiri Choi                                4월 10일 (편집됨)                                      Spring Lab outing                    2026년 4월 10일                                                                                      K                                                Kiri Choi                                3월 27일 (편집됨)                                      The IN/SBLab website is officially live!                    2026년 3월 27일                                                                                K                                                Kiri Choi                                3월 27일 (편집됨)                                      Open Positions                    2026년 3월 27일                    We are actively recruiting MS/PhD students with backgrounds in Biology, Physics, CS, Statistics, or Bioengineering.                          Department of Biological Sciences |    Keimyung University                      ▶        ⚙️ Site Map                    People        Research        Publications        Teaching        Software        News        Contact                  Join us        © 2026 Kiri Choi.All rights reserved.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
@@ -65,7 +65,31 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-end-of-semester-party",
+        },{id: "post-we-have-been-awarded-by-nrf",
+        
+          title: "We have been awarded by NRF!",
+        
+        description: "",
+        content: "Our lab has been awarded the National Research Foundation of Korea (NRF) Core Research grant!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/news/2026/NRFAward/";
+          
+        },
+      },{id: "post-start-of-semester-party",
+        
+          title: "Start of Semester Party",
+        
+        description: "",
+        content: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/news/2026/SemesterStart/";
+          
+        },
+      },{id: "post-end-of-semester-party",
         
           title: "End of Semester Party",
         
