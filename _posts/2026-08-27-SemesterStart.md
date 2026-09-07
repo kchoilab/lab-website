@@ -4,7 +4,7 @@ title: "Start of Semester Party"
 date: 2026-08-27
 author: "Kiri Choi"
 inline: false
-thumbnail: /assets/img/photos/IMG_1402.jpeg
+thumbnail: /assets/img/photos/IMG_1445.jpeg
 ---
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 12px; margin: 20px 0; max-width: 600px;">
