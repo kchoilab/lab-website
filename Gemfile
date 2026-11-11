@@ -4,7 +4,6 @@ gem 'jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'jekyll-3rd-party-libraries'
     gem 'jekyll-archives-v2'
     gem 'jekyll-cache-bust'
     gem 'jekyll-email-protect'
@@ -30,7 +29,7 @@ end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
-    gem 'css_parser'
+    gem 'css_parser', '>= 3.0'  # used by _plugins/3rd-party-libraries.rb; >= 3.0 for GHSA-9pmc-p236-855h
     gem 'feedjira'
     gem 'httparty'
     gem 'observer'       # used by jekyll-scholar
